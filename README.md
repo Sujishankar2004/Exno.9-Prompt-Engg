@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
 
-# Register no.: 212222110027
+# Register no.: 212222040164
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -117,18 +117,8 @@ Swapping descriptors
 
 “In a sunlit garden, a playful dog leaps to catch a frisbee.”
 
-## Output Goal: Identify how phrasing impacts generation quality and interpretation.
 
-# Save and Compare Outputs:
 
-![image](https://github.com/user-attachments/assets/b9e37631-5a60-4b3c-891e-d9bc9173252b)
-
-# google drive link:
-https://drive.google.com/file/d/1igFomUvociTc9c_c9eJGqk1meG0AVs4e/view?usp=sharing
-
-https://drive.google.com/file/d/1h7z0swbO49qrZxeai86iim1m1V3AHvSA/view?usp=sharing
-
-https://drive.google.com/file/d/1PFCtzrspqpaSHBZ6usDEE9A24Reo2y88/view?usp=sharing
 
 # Result: The Prompt of the above task executed successfully
 
